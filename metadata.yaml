@@ -1,0 +1,35 @@
+_repo: Homes-and-Haunts-of-the-Most-Eminent-British-Poets-Vol.-I--of-2-_41164
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hewet, Henry W.
+    aliases:
+    - Hewett, H. W. (Henry W.)
+    - Hewet, H. W. (Henry W.)
+    gutenberg_agent_id: '3708'
+    url: http://www.gutenberg.org/2009/agents/3708
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Howitt, William
+    birthdate: 1792
+    deathdate: 1879
+    gutenberg_agent_id: '38358'
+    url: http://www.gutenberg.org/2009/agents/38358
+description: ''
+gutenberg_issued: '2012-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poets, English -- Homes and haunts'
+- !lcsh 'Literary landmarks -- Great Britain'
+title: Homes and Haunts of the Most Eminent British Poets, Vol. 1 (of 2)
+url: http://www.gutenberg.org/ebooks/41164
